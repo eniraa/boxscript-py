@@ -22,8 +22,10 @@ env
 
 # Built objects
 *.so
+*.c
 dist/
 build/
+boxscript.egg-info/
 
 # IDEs
 # PyCharm
@@ -32,3 +34,6 @@ build/
 .vscode/
 # MacOS
 .DS_Store
+
+# Other stuff
+playground/

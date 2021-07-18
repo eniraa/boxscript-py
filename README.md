@@ -16,15 +16,18 @@ BoxScript's most defining feature is encouraging **thinking inside the box** whe
 git clone https://github.com/somthecoder/CodeJam-Discrete-Dingos.git
 ```
 
+2. Install dependencies
+
+```sh
+poetry install
+```
+
 ## Requirements
 
 * Python 3.9+
 * A font which supports [Block Elements](https://www.unicode.org/charts/PDF/U1FB00.pdf), [Box Drawing](https://www.unicode.org/charts/PDF/U2500.pdf), and [Geometric Shapes](https://unicode.org/charts/PDF/U25A0.pdf)
 
-
 ## Contributors
 
-* [エニラ#0013](https://github.com/pyxiis): Programmer
-* [A Real Username#8028](https://github.com/onerandomusername): Debugger
-* [Slipperee_Slime#3232](https://github.com/Slipperee-CODE): Slime
-* [No u#6720](https://github.com/somthecoder): Leader
+* [エニラ#0013](https://github.com/pyxiis): Lead Programmer
+* [A Real Username#8028](https://github.com/onerandomusername): CI Guru
